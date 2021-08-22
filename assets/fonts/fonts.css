@@ -1,0 +1,38 @@
+/* sf-pro-display */
+@font-face {
+    font-family:sf-pro-display_heavy ;
+    src: url('../fonts/SF-PRO\ DISPLAY/sf-pro-display_heavy.woff2') format("woff2");
+}
+
+@font-face {
+    font-family:sf-pro-display_regular ;
+    src: url('../fonts/SF-PRO\ DISPLAY/sf-pro-display_regular.woff2') format("woff2");
+}
+
+@font-face {
+    font-family:sf-pro-display_semibold ;
+    src: url('../fonts/SF-PRO\ DISPLAY/sf-pro-display_semibold.woff2') format("woff2");
+}
+
+/* sf-pro-regular */
+@font-face {
+    font-family:sf-pro-icons_regular ;
+    src: url('../fonts/SF-PRO\ ICONS/sf-pro-icons_regular.woff2') format("woff2");
+}
+
+@font-face {
+    font-family:sf-pro-icons_semibold ;
+    src: url('../fonts/SF-PRO\ ICONS/sf-pro-icons_semibold.woff2') format("woff2");
+}
+
+/* sf-pro-text */
+@font-face {
+    font-family:sf-pro-text_regular ;
+    src: url('../fonts/SF-PRO\ TEXT/sf-pro-text_regular.woff2') format("woff2");
+    src: url('SF-PRO\ TEXT/sf-pro-text-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:sf-pro-text_semibold ;
+    src: url('../fonts/SF-PRO\ TEXT/sf-pro-text_semibold.woff2') format("woff2");
+}
