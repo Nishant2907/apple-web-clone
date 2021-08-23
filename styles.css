@@ -430,13 +430,26 @@
     color:white;
 }
 
+
+
+
 .footer {
+    font-family:sf-pro-text_regular;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
     background-color: #f5f5f7;
     color: #1d1d1f;
-    font-size: 14px;
+    min-width: 1024px;
+    overflow: hidden;
+    position: relative;
+    z-index: -1;
 }
 
 .footer-inside {
+    font-size: 12px;
+    font-family:sf-pro-text_regular;
     padding: 1% 15%;
     opacity: 0.6;
 }
